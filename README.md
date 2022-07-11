@@ -1,6 +1,8 @@
 # covid-19_Management_system
 covid-19 관리 시스템
-###php, mysql을 이용하여 covid-19 에 대한 종합관리 시스템 구현
+
+
+php, mysql을 이용하여 covid-19 에 대한 종합관리 시스템 구현
 종합 관리 시스템은 다음과 같이 3종류 6기관으로 구성함.
 
 (a) 정부
